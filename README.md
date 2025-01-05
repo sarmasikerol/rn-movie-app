@@ -17,4 +17,4 @@ This project is a **Netflix Clone Movie App**, developed using **React Native**.
 
 
 <------- please wait gif downloading... --------->
-![](ekran.gif)# rn-movie-app
+![](ekran.gif)
